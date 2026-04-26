@@ -1,6 +1,7 @@
 ![Organization Banner](Broken-By-Design_banner.png)
 ## Hai, We are Broken-By-Design!
 ### I don't know what to add here :3
+### "Neither do I" - Epicman212
 
 <!--
 
